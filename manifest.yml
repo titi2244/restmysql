@@ -1,0 +1,7 @@
+---
+applications:
+- name: demo-rest
+  memory: 1G
+  host: customer
+  path: target/demoRest-0.0.1-SNAPSHOT.jar
+
